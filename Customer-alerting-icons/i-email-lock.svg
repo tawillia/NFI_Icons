@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-email-lock</title>
+    <g id="Customer-Alert-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-574.000000, -295.000000)">
+            <g id="i-email-lock" transform="translate(574.000000, 295.000000)">
+                <rect id="ViewBox" x="0" y="0" width="40" height="40"></rect>
+                <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(3.333333, 7.500000)" stroke="#000000" stroke-width="3.33333333">
+                    <polyline id="Path" points="33.3333333 12.5 33.3333333 0 0 0 0 25 16.6666667 25"></polyline>
+                    <path d="M0,0 L16.6666667,12.5 L33.3333333,0 M22.5,20 L32.5,20 L32.5,26.6666667 L22.5,26.6666667 L22.5,20 Z M30,20 L30,17.5 C30,16.1192881 28.8807119,15 27.5,15 C26.1192881,15 25,16.1192881 25,17.5 L25,20" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

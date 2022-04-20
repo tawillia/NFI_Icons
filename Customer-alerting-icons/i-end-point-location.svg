@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-end-point-location</title>
+    <g id="Customer-Alert-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-110.000000, -538.000000)">
+            <g id="i-end-point-location" transform="translate(110.000000, 538.000000)">
+                <g id="icon-truck-map-copy">
+                    <rect id="ViewBox" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M20.0000166,0 C11.7157592,0 5,6.7507 5,15.0781333 C5,17.8630333 5.54227595,20.7393667 7.09843847,22.8125 L20.0000166,40 L32.9015615,22.8125 C34.3150338,20.9295 35,17.6006333 35,15.0781333 C35,6.7507 28.284274,0 20.0000166,0 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+                <g id="dashicons:post-status" transform="translate(8.000000, 6.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M16.8,7.2 C16.8,9.432 15.264,11.292 13.2,11.832 L13.2,19.2 C13.2,20.4 10.8,21.6 10.8,21.6 L10.8,11.832 C8.736,11.292 7.2,9.432 7.2,7.2 C7.2,4.548 9.348,2.4 12,2.4 C14.652,2.4 16.8,4.548 16.8,7.2 Z M9.6,6 C9.6,6.66 10.14,7.2 10.8,7.2 C11.46,7.2 12,6.66 12,6 C12,5.34 11.46,4.8 10.8,4.8 C10.14,4.8 9.6,5.34 9.6,6 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

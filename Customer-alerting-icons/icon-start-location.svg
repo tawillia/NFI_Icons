@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-start-location</title>
+    <g id="Customer-Alert-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-Guide" transform="translate(-919.000000, -760.000000)">
+            <g id="icon-start-location" transform="translate(919.000000, 760.000000)">
+                <g id="icon-truck-map-copy-2">
+                    <rect id="ViewBox" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M19.6721478,0 C11.3426212,0 4.59016393,6.7507 4.59016393,15.0781333 C4.59016393,17.8630333 5.13540314,20.7393667 6.70006928,22.8125 L19.6721478,40 L32.644193,22.8125 C34.0653892,20.9295 34.7540984,17.6006333 34.7540984,15.0781333 C34.7540984,6.7507 28.0016744,0 19.6721478,0 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+                <g id="bx:bxs-flag-alt" transform="translate(9.000000, 3.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="14.303 6 11.303 4 6 4 6 2 4 2 4 22 6 22 6 14 10.697 14 13.697 16 20 16 20 6"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
