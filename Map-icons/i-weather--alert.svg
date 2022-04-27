@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-weather--alert</title>
+    <g id="Fleet-View-V_2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-list" transform="translate(-591.000000, -554.000000)">
+            <g id="i-weather--alert" transform="translate(591.000000, 554.000000)">
+                <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,19 C4.67391755,19 3.40214799,18.4732158 2.46446609,17.5355339 C1.5267842,16.597852 1,15.3260824 1,14 C1,11.2385763 3.23857625,9 6,9 C7,6.65 9.3,5 12,5 C15.43,5 18.24,7.66 18.5,11.03 L19,11 C21.209139,11 23,12.790861 23,15 C23,17.209139 21.209139,19 19,19 L6,19 M19,13 L17,13 L17,12 C17,9.23857625 14.7614237,7 12,7 C9.5,7 7.45,8.82 7.06,11.19 C6.73,11.07 6.37,11 6,11 C4.34314575,11 3,12.3431458 3,14 C3,15.6568542 4.34314575,17 6,17 L19,17 C20.1045695,17 21,16.1045695 21,15 C21,13.8954305 20.1045695,13 19,13 M13,12 L11,12 L11,8 L13,8 L13,12 M13,16 L11,16 L11,14 L13,14" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
