@@ -2,11 +2,13 @@
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>i-plus</title>
     <g id="Fleet-View-V_2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Icons-list" transform="translate(-138.000000, -554.000000)">
-            <g id="i-plus" transform="translate(138.000000, 554.000000)">
-                <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
-                <g id="Group" transform="translate(6.000000, 6.000000)" fill="#000000" fill-rule="nonzero">
-                    <path d="M6,0 C6.41421356,0 6.75,0.335786438 6.75,0.75 L6.75,5.25 L11.25,5.25 C11.6642136,5.25 12,5.58578644 12,6 C12,6.41421356 11.6642136,6.75 11.25,6.75 L6.75,6.75 L6.75,11.25 C6.75,11.6642136 6.41421356,12 6,12 C5.58578644,12 5.25,11.6642136 5.25,11.25 L5.25,6.75 L0.75,6.75 C0.335786438,6.75 0,6.41421356 0,6 C0,5.58578644 0.335786438,5.25 0.75,5.25 L5.25,5.25 L5.25,0.75 C5.25,0.335786438 5.58578644,0 6,0 Z" id="Path"></path>
+        <g id="Map-icons" transform="translate(-3.000000, -36.000000)">
+            <g id="Plus-box" transform="translate(0.000000, 33.000000)">
+                <g id="i-plus" transform="translate(3.000000, 3.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="24" height="24"></rect>
+                    <g id="Group" transform="translate(4.000000, 4.000000)" fill="#000000" fill-rule="nonzero">
+                        <path d="M8,0 C8.55228475,0 9,0.44771525 9,1 L9,7 L15,7 C15.5522847,7 16,7.44771525 16,8 C16,8.55228475 15.5522847,9 15,9 L9,9 L9,15 C9,15.5522847 8.55228475,16 8,16 C7.44771525,16 7,15.5522847 7,15 L7,9 L1,9 C0.44771525,9 0,8.55228475 0,8 C0,7.44771525 0.44771525,7 1,7 L7,7 L7,1 C7,0.44771525 7.44771525,0 8,0 Z" id="Path"></path>
+                    </g>
                 </g>
             </g>
         </g>
