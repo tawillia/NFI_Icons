@@ -1,0 +1,9 @@
+<svg width="40" height="40" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h40v40H0z"/>
+    <g stroke-linecap="round" stroke-linejoin="round" transform="translate(3.333 3.333)" stroke="#000" stroke-width="3.333">
+      <path d="M13.333 3.333 16.667 0m0 0L20 3.333M16.667 0v10m-3.334 20 3.334 3.333m0 0L20 30m-3.333 3.333v-10m13.333-10 3.333 3.334m0 0L30 20m3.333-3.333h-10m-20-3.334L0 16.667m0 0L3.333 20M0 16.667h10"/>
+      <circle cx="16.667" cy="16.667" r="1.667"/>
+    </g>
+  </g>
+</svg>
