@@ -1,0 +1,49 @@
+<svg width="48" height="24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <path d="M1014 0v1915H0V0h1014Z"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M20.084 0v48H0V0h20.084Z"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M2.008 0v5H0V0h2.008Z"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M2.008 0v5H0V0h2.008Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="translate(-165 -1141)">
+    <g clip-path="url(#b)" transform="rotate(90 -464.954 677.954)">
+      <path fill="#BDD1DF" d="M0 0h20.084v48H0V0z"/>
+      <path stroke="#065895" stroke-width="1.528" fill="none" stroke-miterlimit="5" d="M0 0h20.084v48H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 658.004 485.004)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#d)" transform="rotate(-90 669 496)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 668.504 474.504)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#d)" transform="rotate(-90 679.5 485.5)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 661.4 481.608)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#d)" transform="rotate(-90 672.397 492.603)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 671.9 471.108)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#d)" transform="rotate(-90 682.897 482.103)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g>
+      <text transform="translate(175.345 1157.016)" font-family="Helvetica-Bold, Helvetica" font-size="11.586" font-weight="bold" fill="#065895" text-anchor="left">TMW</text>
+    </g>
+  </g>
+</svg>

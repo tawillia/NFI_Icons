@@ -1,0 +1,51 @@
+<svg width="48" height="24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <path d="M1014 0v1915H0V0h1014Z"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M2.008 0v5H0V0h2.008Z"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M2.008 0v5H0V0h2.008Z"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M20.084 0v48H0V0h20.084Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)" transform="translate(-375 -1141)">
+    <g clip-path="url(#b)" transform="rotate(-90 763.004 380.004)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 774 391)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#b)" transform="rotate(-90 773.504 369.504)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 784.5 380.5)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#b)" transform="rotate(-90 766.4 376.608)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 777.397 387.603)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#b)" transform="rotate(-90 776.9 366.108)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g clip-path="url(#c)" transform="rotate(-90 787.897 377.103)">
+      <path fill="#444" d="M0 0h2.008v5H0V0z"/>
+    </g>
+    <g>
+      <g clip-path="url(#d)" transform="rotate(90 -359.954 782.954)">
+        <path fill="#EAF0ED" d="M0 0h20.084v48H0V0z"/>
+        <path stroke="#4D936C" stroke-width="1.528" fill="none" stroke-miterlimit="5" d="M0 0h20.084v48H0V0z"/>
+      </g>
+    </g>
+    <g>
+      <text transform="translate(385.345 1157.016)" font-family="Helvetica-Bold, Helvetica" font-size="11.586" font-weight="bold" fill="#4D936C" text-anchor="left">GPS</text>
+    </g>
+  </g>
+</svg>
