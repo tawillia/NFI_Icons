@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-Satelite</title>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-71.000000, -345.000000)">
+            <g id="i-Satelite" transform="translate(71.000000, 345.000000)">
+                <rect id="ViewBox" x="0" y="0" width="20" height="20"></rect>
+                <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.666667, 1.666667)" stroke="#64788A" stroke-width="1.66666667">
+                    <circle id="Oval" cx="8.33333333" cy="8.33333333" r="8.33333333"></circle>
+                    <line x1="0" y1="8.75" x2="16.6666667" y2="8.75" id="Path"></line>
+                    <path d="M8.33333333,-1.85037171e-16 C10.4177336,2.28196074 11.602294,5.24336154 11.6666667,8.33333333 C11.602294,11.4233051 10.4177336,14.3847059 8.33333333,16.6666667 C6.24893302,14.3847059 5.0643727,11.4233051 5,8.33333333 C5.0643727,5.24336154 6.24893302,2.28196074 8.33333333,-1.85037171e-16 L8.33333333,-1.85037171e-16 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

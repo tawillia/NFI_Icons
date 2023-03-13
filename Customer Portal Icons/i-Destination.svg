@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-Destination</title>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-274.000000, -234.000000)">
+            <g id="i-Destination" transform="translate(274.000000, 234.000000)">
+                <g id="icon-truck-map-copy">
+                    <rect id="ViewBox" x="0" y="0" width="60" height="60"></rect>
+                    <path d="M30.0000249,0 C17.5736387,0 7.5,10.12605 7.5,22.6172 C7.5,26.79455 8.31341392,31.10905 10.6476577,34.21875 L30.0000249,60 L49.3523423,34.21875 C51.4725507,31.39425 52.5,26.40095 52.5,22.6172 C52.5,10.12605 42.426411,0 30.0000249,0 Z" id="Path" fill="#1976D2" fill-rule="nonzero"></path>
+                </g>
+                <g id="dashicons:post-status" transform="translate(12.000000, 9.000000)">
+                    <rect id="ViewBox" x="0" y="0" width="36" height="36"></rect>
+                    <path d="M25.5,10.125 C25.5,13.438125 23.1,16.1990625 19.875,17.000625 L19.875,27.9375 C19.875,29.71875 16.125,31.5 16.125,31.5 L16.125,17.000625 C12.9,16.1990625 10.5,13.438125 10.5,10.125 C10.5,6.1884375 13.85625,3 18,3 C22.14375,3 25.5,6.1884375 25.5,10.125 Z M13.5,7.5 C13.5,8.325 14.5125,9 15.75,9 C16.9875,9 18,8.325 18,7.5 C18,6.675 16.9875,6 15.75,6 C14.5125,6 13.5,6.675 13.5,7.5 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

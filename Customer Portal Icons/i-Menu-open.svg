@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>i-Menu-open</title>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-128.000000, -126.000000)">
+            <g id="i-Menu-open" transform="translate(128.000000, 126.000000)">
+                <rect id="ViewBox" x="0" y="0" width="32" height="32"></rect>
+                <g id="Group" stroke-linejoin="round" transform="translate(6.000000, 7.000000)" stroke="#7E7E7E" stroke-width="2.5875">
+                    <path d="M0,0.321428571 L21,0.321428571 M10.5,6.10714286 L21,6.10714286 M10.5,11.8928571 L21,11.8928571 M0,17.6785714 L21,17.6785714" id="Shape" stroke-linecap="round"></path>
+                    <polygon id="Path" fill="#7E7E7E" fill-rule="nonzero" points="0 5.78571429 5.25 9 0 12.2142857"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
