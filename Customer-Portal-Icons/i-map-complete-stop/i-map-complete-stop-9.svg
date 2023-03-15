@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h60v60H0z"/>
+    <path d="M30 0C17.509 0 7.383 10.126 7.383 22.617c0 4.178.817 8.492 3.164 11.602L30 60l19.453-25.781c2.131-2.825 3.164-7.818 3.164-11.602C52.617 10.126 42.491 0 30 0Z" fill="#075895" fill-rule="nonzero"/>
+    <text opacity=".9" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="23.326" y="32">9</tspan>
+                </text>
+  </g>
+</svg>
